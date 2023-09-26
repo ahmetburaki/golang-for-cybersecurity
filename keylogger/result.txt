@@ -1,0 +1,10 @@
+Tuş Basıldı: a
+Tuş Basıldı: [Shift]
+Tuş Basıldı: s
+Tuş Basıldı: [Shift]
+Tuş Basıldı: ;
+Tuş Basıldı: s
+Tuş Basıldı: a
+Tuş Basıldı: m
+Tuş Basıldı: e
+Tuş Basıldı: r
