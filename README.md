@@ -1,1 +1,1 @@
-# go-for-hackers
+#golang-for-cybersecurity
